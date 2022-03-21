@@ -6,4 +6,4 @@ A photogrid project with search functionalities built with pure
 * javascript
 
 
-# link : https://photogrid-search.netlify.app/
+link : https://photogrid-search.netlify.app/
